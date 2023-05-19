@@ -201,6 +201,7 @@ Home target
 Name : Dario G
 Register No. : 212222230027
 ```
+```
 import sys
 import os
 sys.path.append(os.path.abspath(r"""E:/RoboDK/Posts/""")) # temporarily add path to POSTS folder
@@ -235,10 +236,8 @@ r.ProgFinish(r"""Mainprog""")
 r.ProgSave(r"""C:/Users/Sudharshna/Documents/RoboDK""",r"""Mainprog""",True,r"""E:/RoboDK/Other/VSCodium/VSCodium.exe""")
 
 ```
- 
-
 ### SIMULATION :
-![k6](https://github.com/Mukilkumar-SEC/Lab-Ex.-No---5-Design-simulate-an-environment-for-Robot-Painting-using-Robo-DK/assets/119559663/20dc7f4e-b50f-44a7-a51d-8bfc81d53088)
+![Ex5(kin)](https://github.com/DARIOGEORGE/Lab-Ex.-No---5-Design-simulate-an-environment-for-Robot-Painting-using-Robo-DK/assets/118704873/7d85b499-bc8f-4b92-9e31-0f9cbe8146ac)
 
 ### RESULT :
 The painting environment for a serial manipluator has been created and the surface for the same has been thaught.
